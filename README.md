@@ -1,7 +1,18 @@
-# SuperTags
+# scallopcap_NFT_SuperTag
 Gamifying Phygital Experiences with NFTs and NFC
 
 Monorepo consisting of the codebase for the mobile app, smart contracts, webapp and gateway supporting the SuperTag Ecosystem.
+
+## Project Description
+Name: "Scallop Cap | Sports Headwear".
+
+Description: "Experience the future of athletic gear with our NFC-integrated sportswear, merging cutting-edge technology with fitness to track performance, access personalized training tips, and connect with a community of athletes! This uses Smart Contracts for Gamifying Phygital Experiences with NFTs and NFC. Main Contract for Gamifying Phygital Experiences allowing brand and business owners to associate the NFC (i.e., SuperTag's) Unique ID with the NFT (ERC721) ID and personify it by making it a Token Bound Account*. ERC1155 contract allowing users to mint engagement NFTs that have been derived from the Main SuperTag Contract.".
+
+NFC Tags Support: 
+
+- NTAG216
+- Standard: ISO 14443-3 (Type A)
+- Capacity: 888 Bytes
 
 ## Contract Deployments
 
